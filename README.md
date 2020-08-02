@@ -4,7 +4,7 @@ A PyTorch implementation of improvement upto the baseline for 3d human pose esti
 
 ### Datasets
 
- - [x] Human3.6M
+ - [Human3.6M]
  
  ## Installation
 
