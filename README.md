@@ -4,7 +4,7 @@ A PyTorch implementation of improvement upto the baseline for 3d human pose esti
 
 ### Datasets
 
- - [Human3.6M]
+ - [Human3.6M](https://drive.google.com/file/d/1IbVK2fXcr77JyI_ntyRV6OvoLwoMSq3a/view?usp=sharing)
  
  ## Installation
 
