@@ -20,11 +20,11 @@ A PyTorch implementation of improvement upto the baseline for 3d human pose esti
 
 ## Usage
 
-### Data preprocess
+- Data preprocess
 
-### Train
+- Train
 
-### Test
+- Test
 
 ### Result
 
